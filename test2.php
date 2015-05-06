@@ -1,7 +1,7 @@
 #!/usr/bin/php -q
 <?php
 /**
- * 测试业务现场数据的IP正确率
+ * 测试业务现场数据的IP正确率（样例中广州IP是否存在于MADHOUSE的IP）
  */
 include(dirname(__FILE__)."/fun/common.php");
 /*{{{madhouse IP中为广州的C网段数组*/
